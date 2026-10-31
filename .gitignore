@@ -1,0 +1,16 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Generated image artifacts (keep the directory, ignore its contents)
+generated_images/*
+!generated_images/.gitkeep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

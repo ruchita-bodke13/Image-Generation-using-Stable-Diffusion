@@ -1,0 +1,7 @@
+# PyTorch must be installed separately for the target CPU/CUDA environment.
+diffusers
+transformers
+accelerate
+safetensors
+matplotlib
+jupyterlab
